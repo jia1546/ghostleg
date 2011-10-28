@@ -1,0 +1,47 @@
+1
+<(1,280)>
+0
+remove failed
+after inserting...
+2 3 222
+3
+after inserting...
+1 2 161
+2 3 222
+after inserting...
+4 5 122
+1 2 161
+2 3 222
+2
+1
+after inserting...
+2 3 23
+4 5 122
+1 2 161
+2 3 222
+after inserting...
+2 3 23
+4 5 122
+1 2 161
+2 3 222
+4 5 260
+remove failed
+<(1,161) (2,222) (3,280)>
+2
+after inserting...
+2 3 23
+4 5 122
+3 4 141
+1 2 161
+2 3 222
+4 5 260
+after inserting...
+2 3 23
+4 5 122
+3 4 141
+1 2 161
+3 4 189
+2 3 222
+4 5 260
+2
+time spent in this program = 308 usec

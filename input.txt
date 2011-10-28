@@ -1,0 +1,18 @@
+findresult 1
+path 1
+count 1
+delete 1 2 30
+insert 2 3 222
+findresult 2
+insert 1 2 161
+insert 4 5 122
+count 2
+findresult 2
+insert 2 3 23
+insert 4 5 260
+delete 1 2 30
+path 1
+count 4
+insert 3 4 141
+insert 3 4 189
+findresult 2
