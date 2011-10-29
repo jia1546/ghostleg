@@ -6,9 +6,9 @@
 #define BOTTOM 280
 struct node
 {
-	int x;
-	int y;
-	int z;
+	int x;	//line number of the cross-switch
+	int y;	//line number of the cross-switch
+	int z;	//distance from the top
 	struct node *next;
 };
 typedef node node;

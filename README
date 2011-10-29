@@ -1,0 +1,9 @@
+this specifies how to run this program
+
+the "ghostleg.txt" gives the initiation data for this program. the format is n p x1 y1 z1 x2 y2 z2...xn yn zn, where 
+n is the number of vertical lines
+p is the number of cross-switches 
+x1 y1 z1 x2 y2 z2...xn yn zn are the tuples representing the cross-switches, where xi yi is the crossponding line number, and di is the distance from the top
+
+In order to handle a large amount of test cases, you should sava your commands in a file input.txt and redirect output to a file output.txt as follows:
+ghostleg < input.txt > output.txt
